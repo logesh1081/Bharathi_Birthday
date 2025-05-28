@@ -51,8 +51,8 @@ x = setInterval(function () {
     hh = h / 2,
     opts = {
       strings: ['HAPPY', 'BIRTHDAY!', config.name, ' Little Angel '],
-      charSize: 38,
-      charSpacing: 34,
+      charSize: 35,
+      charSpacing: 30,
       lineHeight: 60,
 
       cx: w / 2,
