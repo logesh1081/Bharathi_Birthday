@@ -50,7 +50,7 @@ x = setInterval(function () {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['HAPPY', 'BIRTHDAY!', config.name, ' Little Angel '],
+      strings: ['HAPPY', 'BIRTHDAY!', 'UMA', 'BHARATHI', ' Little ', ' Angel '],
       charSize: 35,
       charSpacing: 30,
       lineHeight: 60,
